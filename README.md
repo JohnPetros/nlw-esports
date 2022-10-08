@@ -20,15 +20,12 @@
 Sistema web e mobile para encontrar duos em jogos online. Projeto realizado durante a 9º edição da Next Level Return da Rocketseat.
 
 <hr>
-<br>
 
 ## ⚙️ Funcionalidades
 - Listagem de games mais populares na Twitch
 - Criação e postagem de anúncios para encontrar jogadores
 - Perfil do usuário com informações do jogo e do jogador
 - Match de jogadores para jogar juntos
-<br>
-
 
 ## 📖 Aprendizado
 - Configuração de ambiente Nodejs
@@ -45,8 +42,6 @@ Sistema web e mobile para encontrar duos em jogos online. Projeto realizado dura
 - Novas formar de estruturar projetos mobile
 - Como criar a funcionalidade de clipboard no mobile
 - Introdução de como enviar mensagem para o celular do usuário
-
-<br>
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias
